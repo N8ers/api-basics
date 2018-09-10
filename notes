@@ -1,0 +1,4 @@
+npm install axios
+
+life cycle components;
+when ever the page loads we'll get subreddits!
